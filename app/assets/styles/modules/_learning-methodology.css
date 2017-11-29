@@ -1,0 +1,108 @@
+.learning-methodology {
+  width: 100%;
+  background: url('//assetlibs.kaplaninternational.com/_assets/about-k-plus/images/learning-methodology-bg.jpg') center no-repeat;
+  background-size: cover;
+
+  &__content {
+    padding-top: 30px;
+  }
+
+  h3.section-subtitle {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-size: 16px;
+  }
+
+  &__k-plus {
+    position: relative;
+    padding: 20px;
+    background-color: #f6f6f6;
+    margin-bottom: 15px;
+
+    @mixin atSmall {
+      padding: 20px 0;
+      margin-bottom: 0;
+      background-color: transparent;
+    }
+
+    ._icon {
+      margin: 15px auto;
+
+      @mixin atSmall {
+        margin: 0;
+      }
+
+    }
+
+    @mixin atSmall {
+      padding-top: 10px;
+    }
+
+    p {
+      padding-top: 10px;
+      text-align: center;
+
+      @mixin atSmall {
+        text-align: left;
+      }
+
+    }
+
+    a {
+      width: 100%;
+      margin: auto;
+      text-align: center;
+
+      @mixin atSmall {
+        text-align: left;
+      }
+
+    }
+
+    &__disclaimer {
+      padding-top: 20px;
+      display: block;
+      font-size: 14px;
+      text-align: center;
+      clear: both;
+    }
+
+  }
+
+  &__question {
+    position: absolute;
+    color: #007DB3;
+    font-size: 18px;
+    right: 6px;
+    top: 6px;
+    font-size: 24px;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+  }
+
+  ._icon {
+    transform: scale(1.25);
+    margin-bottom: 10px;
+
+    @mixin atSmall {
+      transform-origin: 0;
+    }
+    @mixin atLarge {
+      transform: scale(1.5);
+    }
+  }
+
+  &__k-logo {
+    padding: 10px 0;
+  }
+
+  ._icon--k-plus {
+    display: block;
+    margin: 10px auto;
+    transform-origin: 50%;
+    transform: scale(.8);
+    @mixin clearfix;
+  }
+
+}

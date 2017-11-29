@@ -1,0 +1,215 @@
+.diff-circle-box {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  min-height: 200px;
+  text-align: center;
+  /*display: none;*/
+
+  p {
+    margin-top: 20px;
+  }
+  @mixin atSmall{
+    display: block;
+  }
+
+}
+
+
+
+
+.circle-wrapper {
+  max-width: 550px;
+  width: 100%;
+  margin: 0 auto;
+
+
+  @mixin atSmall {
+    height: 294px;
+    max-width: 750px;
+    background: url('//assetlibs.kaplaninternational.com/_assets/about-us/images/circle-bg.png') top center no-repeat;
+    background-size: contain;
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+    justify-content: space-around;
+  }
+  @mixin atMedium {
+    padding: 0 8px;
+  }
+
+}
+.circle {
+  position: relative;
+  display: inline-block;
+
+  &__inner {
+    position: relative;
+    background-color: #A79FC5;
+    width: 100%;
+    text-align: left;
+    float: left;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    transition: all 0.3s ease;
+
+    &:hover, &:focus {
+      text-decoration: none;
+    }
+
+    ._icon {
+
+     display: none;
+      @mixin atSmall {
+
+        display: block;
+        position: absolute;
+        left: 50%;
+        top: 40%;
+        margin-left: -30px;
+        margin-top: -30px;
+      }
+
+    }
+
+    &--pl {
+      padding-left: 0;
+    }
+    &:before {
+      position: absolute;
+      z-index: 1;
+      content: '➔';
+      font-size: 32px;
+      line-height: 32px;
+      width: 32px;
+      height: 32px;
+      bottom: -22px;
+      left: 10%;
+      text-align: center;
+      color: #3dfdff;
+      transform: rotate(90deg);
+    }
+    &:after {
+      position: absolute;
+      z-index: 1;
+      content: '➔';
+      font-size: 32px;
+      line-height: 32px;
+      width: 32px;
+      height: 32px;
+      bottom: -22px;
+      right: 10%;
+      text-align: center;
+      color: #007DB3;
+      transform: rotate(270deg);
+    }
+    &:nth-child(2) {
+      background-color: #7C6FA8;
+    }
+    &:nth-child(3) {
+      background-color: #503F8B;
+      &:before {
+        content: none;
+      }
+      &:after {
+        content: none;
+      }
+    }
+
+
+    @mixin atSmall {
+      flex: 1;
+      background-color: transparent;
+      text-align: center;
+      display: flex;
+      margin: 50px 0;
+      &:nth-child(2) {
+        background-color: transparent;
+      }
+      &:nth-child(3) {
+        background-color: transparent;
+      }
+      &:before {
+        content: none;
+      }
+      &:after {
+        content: none;
+      }
+      &:hover, &:focus {
+        transform: scale(1.1);
+      }
+    }
+
+  }
+  &__number {
+    display: block;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 16px;
+    left: 0;
+    font-size: 26px;
+    line-height: 1;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.4);
+    margin: 0 auto;
+
+    &--pr {
+      padding-right: 0;
+    }
+    @mixin atSmall {
+      top: 40px;
+      font-size: 70px;
+      color: rgba(255, 255, 255, 0.11);
+      width: 100%;
+      height: auto;
+      line-height: 1;
+    }
+
+    @mixin atMedium {
+      font-size: 70px;
+
+
+    }
+
+    @mixin atLarge {
+      font-size: 70px;
+    }
+
+  }
+
+  &__desc {
+    display: block;
+    padding: 15px 0;
+    font-size: 14px;
+    color: white;
+
+    text-transform: uppercase;
+    font-weight: 700;
+
+    margin: 0 auto ;
+    padding-left: 20px;
+
+    @mixin atSmall {
+      padding-left: 0;
+      margin: 40px auto 0 auto;
+
+
+    }
+
+
+    &--pr {
+      padding-right: 8px;
+    }
+    @mixin atSmall {
+      max-width: 194px;
+      padding: 0;
+      align-self: center;
+    }
+    @mixin atMedium {
+      font-size: 16px;
+    }
+
+  }
+
+
+}

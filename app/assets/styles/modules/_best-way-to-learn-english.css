@@ -1,0 +1,81 @@
+.best-way-to-learn-english {
+
+&__p {
+  font-size: 14px;
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+
+  @mixin atSmall {
+    font-size: 18px;
+
+  }
+
+}
+
+  &__p--bold {
+   font-weight: 700;
+    padding-top: 20px;
+
+  }
+
+  &__content-box {
+    float: left;
+    width: 100%;
+    padding-top: 20px;
+
+    @mixin atSmall {
+      padding-top: 50px;
+    }
+
+
+    h1 {
+      padding-bottom: 15px;
+      margin-top: 20px;
+
+      @mixin atSmall {
+        margin-top: 0;
+      }
+
+
+      @mixin atMedium {
+        margin-top: 0;
+      }
+
+    }
+
+    img {
+      width: 100%;
+      padding-top: 20px;
+
+      @mixin atSmall {
+        padding-top: 0;
+
+
+      }
+
+    }
+
+    p {
+      text-align: center;
+      @mixin atSmall {
+        text-align: left;
+      }
+
+    }
+
+  }
+
+
+
+  &__content-box--margin-top {
+    margin-top: 20px;
+
+    @mixin atSmall {
+      margin-top: 20px;
+    }
+
+  }
+
+
+}

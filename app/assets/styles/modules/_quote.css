@@ -1,0 +1,67 @@
+.quote {
+  width: 100%;
+  background-color: #EEEEEE;
+  padding: 6% 0;
+
+  @mixin atSmall {
+    padding: 5% 0;
+  }
+  
+  @mixin atMedium {
+    padding: 4% 0;
+  }
+
+
+  &__pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: url('//assetlibs.kaplaninternational.com/_assets/about-k-plus/images/mmet.jpg') top center no-repeat;
+    background-size: cover;
+    float: none;
+    margin: 0 auto;
+    transform: scale(.7);
+    transform-origin: 50%;
+
+    @mixin atSmall {
+      float: left;
+      margin-right: 20px;
+      margin-bottom: 40px;
+      transform: scale(1);
+    }
+
+  }
+
+  &__pic--global {
+    background: url('//assetlibs.kaplaninternational.com/_assets/about-k-plus/images/quote-img.png') top center no-repeat;
+  }
+
+  &__text {
+    font-family: 'Times New Roman', serif;
+    font-style: italic;
+    font-size: 16px;
+    color: #606060;
+    text-align: center;
+
+    @mixin atSmall {
+      text-align: left;
+      font-size: 18px;
+    }
+
+  }
+
+  &__by {
+    padding-top: 1em;
+    font-size: 12px;
+    color: #606060;
+    text-transform: uppercase;
+    text-align: center;
+
+    @mixin atSmall {
+      text-align: left;
+      font-size: 13px;
+    }
+
+  }
+
+}

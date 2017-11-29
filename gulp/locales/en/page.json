@@ -1,0 +1,84 @@
+{
+    "hero": {
+        "title": "HOW WE TEACH",
+        "subtitle": "EXPERT TEACHERS. TOTAL IMMERSION. SOPHISTICATED LEARNING TOOLS",
+        "cta": "Try K+ For Free",
+        "cta-url": "https://study.kaplaninternational.com/l/design-team-test/kextra/Assets/index.html"
+    },
+    "learn-english": {
+        "title": "THE BEST WAY TO LEARN ENGLISH",
+        "subtitle": "Our students learn not just in the classroom, but out in the world through adventure and experience",
+        "description": "<p>At Kaplan we’ve always believed that  immersion backed up by expert teaching is the most effective way to learn English. We achieve our results through integrating the best of modern teaching methods with the life-enhancing experience of learning by exploring the world.</p> <p>Our exciting activities and excursions are not just a fun extra; they are an integral part of the learning journey. Our approach enhances the benefits of immersion by placing you in direct contact with the living language in a fun and exciting way.</p> <p>By helping you discover the amazing attractions of your host country, we provide a focus for practice, discussion and debate, as well as greater insight into an English-speaking culture.</p>"
+    },
+    "quotes": {
+        "q1": {
+            "quote": "Immersion is the most effective form of foreign language instruction ever implemented in a school setting. <br> Studies have shown that immersion students develop near-native skills in understanding and reading a foreign language, and high levels of proficiency in speaking and writing it",
+            "by": "DR MYRIAM MET"
+        },
+        "q2": {
+            "quote": "The ability to understand and speak more than one language is not the only benefit of immersion education. <br> Research shows that students gain additional cognitive, academic and employment benefits.",
+            "by": "CENTER FOR ADVANCED RESEARCH ON LANGUAGE ACQUISITION, 2007"
+        }
+    },
+    "kplus": {
+        "title": "OUR BLENDED LEARNING SYSTEM",
+        "subtitle": "Our unique <em>K+</em> teaching methodology was designed by an international team of experts to harness the power of digital, text-based and interpersonal learning methods. Our integrated system of books, apps, online resources and games work together to help you learn fast - in the classroom, on the move, and at home.",
+        "extra": "This package of online learning materials is designed to facilitate self-directed study, allowing students to move beyond progress made in class with interactive questions, videos, audio examples and assessment tasks.",
+        "extra-popover-1": "You can tailor your K +eXtra experience to suit your individual strengths and weaknesses, and all progress is automatically saved to your personal account.",
+        "extra-popover-2": "Students can choose to continue a subscription to K +eXtra and K +tools after they have finished studying at Kaplan, allowing continued practise and refresh their skills.",
+        "extra-btn": "Take the test now!",
+        "extra-btn-url": "https://study.kaplaninternational.com/l/design-team-test/kextra/Assets/index.html",
+        "notes": "Our K +notes course books cover all the key areas of language. Each book is directly linked to online learning materials and to interactive whiteboards used in class.",
+        "tools": "These online materials allow students to reinforce progress made in class and receive instant feedback, with additional exercises and examples.",
+        "clubs": "Teacher-led study clubs run throughout the week, allowing students to socialize and practice their language skills at the same time.",
+        "descliamer": "K+ is aligned to CEFR (Common European Framework of Reference) levels."
+    },
+    "take-closer": {
+        "title": "TAKE A CLOSER LOOK AT <em>K +EXTRA</em>",
+        "subtitle": "<em>K+ extra</em> is part of our online learning package – allowing you to keep working on your English outside the classroom. Click the circles to try out our teaching methods – free!",
+        "circles": {
+            "circle1": {
+                "text": "GRAMMAR"
+            },
+            "circle2": {
+                "text": "PRONUNCIATION"
+            },
+            "circle3": {
+                "text": "VOCABULARY"
+            }
+        },
+        "description-1": "Choose from grammar, vocabulary or pronunciation and study at your own pace with carefully developed lessons.",
+        "description-2": "Our three-step study process encourages you to learn new material, practise what you know, then review your knowledge with specialised mini tests.<br>Progress step-by-step and reach fluency the Kaplan way!",
+        "btn": "Try K+ For Free",
+        "btn-url": "https://study.kaplaninternational.com/l/design-team-test/kextra/Assets/index.html"
+    },
+    "kite": {
+        "title": "KITE",
+        "description": "Helping you define your learning goals <br><br> KITE, our advanced, psychometrics-based testing system adapts to students' responses to build a highly accurate impression of their English proficiency. Understanding your needs allows us to place you in the correct class and fine-tune your learning experience.",
+        "btn": "Learn more about KITE",
+        "btn-url": "https://takekite.com/"
+    },
+    "contact-us": {
+        "title": "CONTACT US",
+        "subtitle": "Get in touch for a free consultation in your local language – or check out our brochure for our full range of courses and destinations",
+        "cta": "Contact an Advisor",
+        "cta-url": "/contact-us/form",
+        "brochure": "Download Free Brochure",
+        "brochure-url": "/brochure-download/form"
+    },
+    "discover-more": {
+        "title": "DISCOVER MORE ABOUT STUDYING WITH KAPLAN",
+        "box1": {
+            "title": "Our Courses",
+            "description": "Whatever your ambitions, we have an immersive English program to suit you",
+            "btn": "Learn more",
+            "url": "/node/555"
+        },
+        "box2": {
+            "title": "Our Schools",
+            "description": "40 thriving schools across the English-speaking world",
+            "btn": "Learn more",
+            "url": "/node/555"
+        }
+    }
+}
