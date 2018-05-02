@@ -20,7 +20,6 @@
   }
 
   &__content-box {
-    float: left;
     width: 100%;
     padding-top: 20px;
 
@@ -77,5 +76,46 @@
 
   }
 
+  .guaranteed-progress {
+    margin-top: 3%;
+    padding: 20px;
+    background-color: #e9e7f0;
+    border: 1px solid rgba(36, 15, 110, 0.1);
+    border-bottom: 5px solid rgba(36, 15, 110, 0.1);
+    
+    img {
+      width: 70px;
+      height: 70px;
+      float: left;
+      overflow: hidden;
+      margin: 0 15px 8px 0;
+    }
+    h4 {
+      font-size: 14px;
+      color: #303030;
+      font-weight: 700;
+      margin: 0 0 6px 0;
+    }
+    .desc {
+      font-size: 13px;
+      color: #303030;
+      a {
+        text-decoration: underline;
+      }
+    }
 
+    @mixin atMedium {
+      padding: 2%;
+      h4 {
+        font-size: 18px;
+      }
+      img {
+        width: 86px;
+        height: 86px;
+      }
+      .desc {
+        font-size: 14px;
+      }
+    }
+  }
 }

@@ -1,10 +1,10 @@
-/*rtl:raw:@import url(//fonts.googleapis.com/earlyaccess/droidarabickufi.css)*/
+@import url(//fonts.googleapis.com/earlyaccess/droidarabickufi.css);
 .wrapper {
   max-width: 1170px;
-  margin-left: auto;
   margin-right: auto;
-  padding-left: 20px;
+  margin-left: auto;
   padding-right: 20px;
+  padding-left: 20px;
 }
 .wrapper:before {
   content: '';
@@ -17,12 +17,12 @@
 }
 @media (min-width: 890px) {
 .wrapper {
-    padding-left: 15px;
-    padding-right: 15px
+    padding-right: 15px;
+    padding-left: 15px
 }
   }
 html, body {
-  direction:ltr;
+  direction:rtl;
   color: #404040;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -101,196 +101,196 @@ body .node * {
 /* Do not edit modules/_sprite directly as it is generated automatically by Gulp.
 Instead edit gulp/templates/sprite */
 ._icon {
-  background-image: url('//assetlibs.kaplaninternational.com/_assets/about-k-plus/images/sprites/sprite-5ef206fd.svg')/*rtl:ignore*/;
+  background-image: url('//assetlibs.kaplaninternational.com/_assets/about-k-plus/images/sprites/sprite-5ef206fd.svg');
 }
 .no-svg ._icon {
-  background-image: url('//assetlibs.kaplaninternational.com/_assets/about-k-plus/images/sprites/sprite-5ef206fd.png')/*rtl:ignore*/;
+  background-image: url('//assetlibs.kaplaninternational.com/_assets/about-k-plus/images/sprites/sprite-5ef206fd.png');
 
 }
 ._icon--accommodation {
   width: 34px;
   height: 34px;
-  background-position: 48.89196675900277% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 48.89196675900277% 68.58316221765914%;
 }
 ._icon--booking {
   width: 17px;
   height: 17px;
-  background-position: 81.0554803788904% 59.92063492063492%/*rtl:ignore*/;
+  background-position: 81.0554803788904% 59.92063492063492%;
 }
 ._icon--check {
   width: 16px;
   height: 14px;
-  background-position: 85.54054054054055% 59.566074950690336%/*rtl:ignore*/;
+  background-position: 85.54054054054055% 59.566074950690336%;
 }
 ._icon--circle1 {
   width: 252px;
   height: 302px;
-  background-position: 100% 0/*rtl:ignore*/;
+  background-position: 100% 0;
 }
 ._icon--circle2 {
   width: 252px;
   height: 302px;
-  background-position: 0 0/*rtl:ignore*/;
+  background-position: 0 0;
 }
 ._icon--circle3 {
   width: 252px;
   height: 302px;
-  background-position: 50% 0/*rtl:ignore*/;
+  background-position: 50% 0;
 }
 ._icon--courses {
   width: 34px;
   height: 34px;
-  background-position: 34.76454293628809% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 34.76454293628809% 68.58316221765914%;
 }
 ._icon--current-students {
   width: 72px;
   height: 72px;
-  background-position: 14.035087719298245% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 14.035087719298245% 86.19153674832963%;
 }
 ._icon--date {
   width: 17px;
   height: 16px;
-  background-position: 83.35588633288228% 59.801980198019805%/*rtl:ignore*/;
+  background-position: 83.35588633288228% 59.801980198019805%;
 }
 ._icon--faq {
   width: 34px;
   height: 34px;
-  background-position: 58.310249307479225% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 58.310249307479225% 68.58316221765914%;
 }
 ._icon--higher-education {
   width: 34px;
   height: 34px;
-  background-position: 30.05540166204986% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 30.05540166204986% 68.58316221765914%;
 }
 ._icon--k-clubs {
   width: 83px;
   height: 24px;
-  background-position: 39.9702823179792% 60.76458752515091%/*rtl:ignore*/;
+  background-position: 39.9702823179792% 60.76458752515091%;
 }
 ._icon--k-extra {
   width: 82px;
   height: 24px;
-  background-position: 64.39169139465875% 60.76458752515091%/*rtl:ignore*/;
+  background-position: 64.39169139465875% 60.76458752515091%;
 }
 ._icon--k-notes {
   width: 85px;
   height: 24px;
-  background-position: 27.421758569299552% 60.76458752515091%/*rtl:ignore*/;
+  background-position: 27.421758569299552% 60.76458752515091%;
 }
 ._icon--k-plus {
   width: 96px;
   height: 72px;
-  background-position: 0 86.19153674832963%/*rtl:ignore*/;
+  background-position: 0 86.19153674832963%;
 }
 ._icon--k-tools {
   width: 82px;
   height: 24px;
-  background-position: 52.225519287833826% 60.76458752515091%/*rtl:ignore*/;
+  background-position: 52.225519287833826% 60.76458752515091%;
 }
 ._icon--kaplan-logo {
   width: 184px;
   height: 32px;
-  background-position: 0 61.758691206543965%/*rtl:ignore*/;
+  background-position: 0 61.758691206543965%;
 }
 ._icon--ki-80-years {
   width: 72px;
   height: 72px;
-  background-position: 35.08771929824562% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 35.08771929824562% 86.19153674832963%;
 }
 ._icon--ki-80-years-white {
   width: 72px;
   height: 72px;
-  background-position: 77.19298245614036% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 77.19298245614036% 86.19153674832963%;
 }
 ._icon--kie-highly-recommended {
   width: 72px;
   height: 72px;
-  background-position: 45.6140350877193% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 45.6140350877193% 86.19153674832963%;
 }
 ._icon--kie-world-schools {
   width: 72px;
   height: 72px;
-  background-position: 56.14035087719298% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 56.14035087719298% 86.19153674832963%;
 }
 ._icon--kie-world-students {
   width: 72px;
   height: 72px;
-  background-position: 66.66666666666667% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 66.66666666666667% 86.19153674832963%;
 }
 ._icon--kite {
   width: 182px;
   height: 53px;
-  background-position: 0 71.36752136752136%/*rtl:ignore*/;
+  background-position: 0 71.36752136752136%;
 }
 ._icon--kplus-extra-grammar {
   width: 62px;
   height: 62px;
-  background-position: 86.45533141210375% 84.31372549019608%/*rtl:ignore*/;
+  background-position: 86.45533141210375% 84.31372549019608%;
 }
 ._icon--kplus-extra-pronunciation {
   width: 62px;
   height: 62px;
-  background-position: 95.38904899135447% 84.31372549019608%/*rtl:ignore*/;
+  background-position: 95.38904899135447% 84.31372549019608%;
 }
 ._icon--kplus-extra-vocabulary {
   width: 62px;
   height: 62px;
-  background-position: 0 100%/*rtl:ignore*/;
+  background-position: 0 100%;
 }
 ._icon--left-arrow {
   width: 22px;
   height: 22px;
-  background-position: 76.29427792915531% 60.521042084168336%/*rtl:ignore*/;
+  background-position: 76.29427792915531% 60.521042084168336%;
 }
 ._icon--location {
   width: 17px;
   height: 17px;
-  background-position: 78.75507442489851% 59.92063492063492%/*rtl:ignore*/;
+  background-position: 78.75507442489851% 59.92063492063492%;
 }
 ._icon--mail {
   width: 22px;
   height: 22px;
-  background-position: 70.29972752043597% 60.521042084168336%/*rtl:ignore*/;
+  background-position: 70.29972752043597% 60.521042084168336%;
 }
 ._icon--pathways {
   width: 34px;
   height: 34px;
-  background-position: 63.01939058171745% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 63.01939058171745% 68.58316221765914%;
 }
 ._icon--person {
   width: 35px;
   height: 42px;
-  background-position: 25.24271844660194% 69.72860125260961%/*rtl:ignore*/;
+  background-position: 25.24271844660194% 69.72860125260961%;
 }
 ._icon--phone {
   width: 22px;
   height: 22px;
-  background-position: 73.29700272479565% 60.521042084168336%/*rtl:ignore*/;
+  background-position: 73.29700272479565% 60.521042084168336%;
 }
 ._icon--scholl {
   width: 34px;
   height: 34px;
-  background-position: 53.601108033241% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 53.601108033241% 68.58316221765914%;
 }
 ._icon--school {
   width: 34px;
   height: 34px;
-  background-position: 44.18282548476454% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 44.18282548476454% 68.58316221765914%;
 }
 ._icon--study-with-us {
   width: 72px;
   height: 72px;
-  background-position: 24.56140350877193% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 24.56140350877193% 86.19153674832963%;
 }
 ._icon--travel {
   width: 34px;
   height: 34px;
-  background-position: 39.473684210526315% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 39.473684210526315% 68.58316221765914%;
 }
 ._icon--visa {
   width: 34px;
   height: 34px;
-  background-position: 67.72853185595568% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 67.72853185595568% 68.58316221765914%;
 }
 .page-section {
   padding: 20px 0;
@@ -346,12 +346,12 @@ Instead edit gulp/templates/sprite */
   }
 @media (min-width: 768px) {
 .section-title--left {
-      text-align: left
+      text-align: right
 
   }
   }
 .section-title--right {
-    text-align: right;
+    text-align: left;
   }
 .section-title--lowercase {
     text-transform: capitalize;
@@ -399,13 +399,13 @@ Instead edit gulp/templates/sprite */
         }
 
         .section-title--smaller span:before {
-          right: 100%;
-          margin-right: 15px;
+          left: 100%;
+          margin-left: 15px;
         }
 
         .section-title--smaller span:after {
-          left: 100%;
-          margin-left: 15px;
+          right: 100%;
+          margin-right: 15px;
         }
   }
 .section-subtitle {
@@ -433,12 +433,12 @@ Instead edit gulp/templates/sprite */
   }
 @media (min-width: 890px) {
 .section-subtitle--left {
-      text-align: left
+      text-align: right
 
   }
   }
 .section-subtitle--right {
-    text-align: right;
+    text-align: left;
   }
 .section-subtitle--lowercase {
     text-transform: none;
@@ -514,7 +514,7 @@ Instead edit gulp/templates/sprite */
 ._btn--collapse:before {
       position: absolute;
       top: 5px;
-      left: 20px;
+      right: 20px;
       content: "–";
       display: inline-block;
       color: white;
@@ -537,8 +537,8 @@ Instead edit gulp/templates/sprite */
     min-width: 260px;
     overflow: hidden;
     white-space: nowrap;
-    background: -webkit-gradient(linear, right top, left top, from(transparent), color-stop(transparent), color-stop(#007DB3), color-stop(transparent), to(transparent));
-    background: linear-gradient(270deg, transparent, transparent, #007DB3, transparent, transparent);
+    background: -webkit-gradient(linear, left top, right top, from(transparent), color-stop(transparent), color-stop(#007DB3), color-stop(transparent), to(transparent));
+    background: linear-gradient(-270deg, transparent, transparent, #007DB3, transparent, transparent);
     background-size: 800% 800%;
     -webkit-animation: MainCTAAni 5s ease infinite;
     animation: MainCTAAni 5s ease infinite;
@@ -548,7 +548,7 @@ Instead edit gulp/templates/sprite */
       position: absolute;
       z-index: -1;
       top: 0;
-      left: 0;
+      right: 0;
       width: 0;
       height: 100%;
       background-color: #007DB3;
@@ -589,12 +589,12 @@ Instead edit gulp/templates/sprite */
   }
 /* Gradient Animation */
 @-webkit-keyframes MainCTAAni {
-  0%{background-position:100% 50%}
-  100%{background-position:0% 50%}
+  0%{background-position:0% 50%}
+  100%{background-position:100% 50%}
 }
 @keyframes MainCTAAni { 
-  0%{background-position:100% 50%}
-  100%{background-position:0% 50%}
+  0%{background-position:0% 50%}
+  100%{background-position:100% 50%}
 }
 .collapsed-wrapper {
   display: none;
@@ -613,7 +613,7 @@ Instead edit gulp/templates/sprite */
       width: 100%;
       content: "";
       position: absolute;
-      left: 0;
+      right: 0;
       top: 16px;
       border-bottom: 1px solid #CCCCCC;
     }
@@ -621,10 +621,10 @@ Instead edit gulp/templates/sprite */
 .collapsed:before {
     content: "+";
     
-    padding-right: 3px;
+    padding-left: 3px;
     vertical-align: middle;
     color: white;
-    float: left;
+    float: right;
     
 
   }
@@ -647,7 +647,7 @@ Instead edit gulp/templates/sprite */
     color: white;
   }
 ._btn-db--left {
-    text-align: left;
+    text-align: right;
     margin: 0;
     padding: 0;
 
@@ -680,8 +680,8 @@ Instead edit gulp/templates/sprite */
   transition: all .9s ease-out;
   -webkit-transform: scaleY(.0);
           transform: scaleY(.0);
-  -webkit-transform-origin: 0 100%;
-          transform-origin: 0 100%;
+  -webkit-transform-origin: 100% 100%;
+          transform-origin: 100% 100%;
 }
 .reveal-chart--is-visible {
     opacity: 1;
@@ -720,11 +720,11 @@ Instead edit gulp/templates/sprite */
 .large-hero__content {
     position: absolute;
     bottom: 0;
-    padding-left: 15px;
     padding-right: 15px;
+    padding-left: 15px;
     padding-top: 8%;
     padding-bottom: 8%;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(36, 15, 110, 0)), color-stop(1%, rgba(36, 15, 110, 0)), color-stop(60%, rgba(36, 15, 110, 0.5)), to(rgba(36, 15, 110, 0.5)));
+    background: -webkit-gradient(linear, right top, right bottom, from(rgba(36, 15, 110, 0)), color-stop(1%, rgba(36, 15, 110, 0)), color-stop(60%, rgba(36, 15, 110, 0.5)), to(rgba(36, 15, 110, 0.5)));
     background: linear-gradient(to bottom, rgba(36, 15, 110, 0) 0%, rgba(36, 15, 110, 0) 1%, rgba(36, 15, 110, 0.5) 60%, rgba(36, 15, 110, 0.5) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00240f6e', endColorstr='#80240f6e', GradientType=0);
 
@@ -736,8 +736,8 @@ Instead edit gulp/templates/sprite */
       -webkit-transform: translateY(-50%);
               transform: translateY(-50%);
       -ms-transform: translateY(-50%);
-      padding-left: 15px;
       padding-right: 15px;
+      padding-left: 15px;
       width: 100%;
       background: none;
       padding-bottom: 0;
@@ -753,7 +753,7 @@ Instead edit gulp/templates/sprite */
       text-align: center;
       font-weight: 800;
       margin: 10px 0;
-      text-shadow: 1px 1px 9px rgba(0, 0, 0, 0.4);
+      text-shadow: -1px 1px 9px rgba(0, 0, 0, 0.4);
 
     }
 @media (min-width: 768px) {
@@ -782,7 +782,7 @@ Instead edit gulp/templates/sprite */
       line-height: 1.25em;
       font-weight: 600;
       margin: 0 0 10px 0;
-      text-shadow: 1px 1px 9px rgba(0, 0, 0, 0.4);
+      text-shadow: -1px 1px 9px rgba(0, 0, 0, 0.4);
 
     }
 @media (min-width: 768px) {
@@ -808,7 +808,7 @@ Instead edit gulp/templates/sprite */
       font-size: 14px;
       color: white;
       text-align: center;
-      text-shadow: 1px 1px 9px rgba(0, 0, 0, 0.4);
+      text-shadow: -1px 1px 9px rgba(0, 0, 0, 0.4);
       margin-bottom: 1.5em;
 
     }
@@ -835,8 +835,8 @@ Instead edit gulp/templates/sprite */
     .large-hero__content h3,
     .large-hero__content p {
         max-width: 768px;
-        margin-left: auto;
-        margin-right: auto
+        margin-right: auto;
+        margin-left: auto
 
     }
   }
@@ -919,7 +919,7 @@ Instead edit gulp/templates/sprite */
     }
 @media (min-width: 768px) {
 .best-way-to-learn-english__content-box p {
-        text-align: left
+        text-align: right
 
     }
   }
@@ -943,9 +943,9 @@ Instead edit gulp/templates/sprite */
 .best-way-to-learn-english .guaranteed-progress img {
       width: 70px;
       height: 70px;
-      float: left;
+      float: right;
       overflow: hidden;
-      margin: 0 15px 8px 0;
+      margin: 0 0 8px 15px;
     }
 .best-way-to-learn-english .guaranteed-progress h4 {
       font-size: 14px;
@@ -977,7 +977,7 @@ Instead edit gulp/templates/sprite */
   }
 .contact-us {
   background: rgb(124, 111, 168);
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(124, 111, 168, 1)), to(rgba(36, 15, 110, 1)));
+  background: -webkit-gradient(linear, right top, right bottom, from(rgba(124, 111, 168, 1)), to(rgba(36, 15, 110, 1)));
   background: linear-gradient(to bottom, rgba(124, 111, 168, 1) 0%, rgba(36, 15, 110, 1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7c6fa8', endColorstr='#240f6e', GradientType=0);
 
@@ -993,8 +993,8 @@ Instead edit gulp/templates/sprite */
 .contact-us ._btn._main-cta-ani {
       background-color: #007DB3;
       border: 1px solid transparent;
-      background: -webkit-gradient(linear, right top, left top, from(#007DB3), color-stop(#007DB3), color-stop(#00E4FF), color-stop(#007DB3), to(#007DB3));
-      background: linear-gradient(270deg, #007DB3, #007DB3, #00E4FF, #007DB3, #007DB3);
+      background: -webkit-gradient(linear, left top, right top, from(#007DB3), color-stop(#007DB3), color-stop(#00E4FF), color-stop(#007DB3), to(#007DB3));
+      background: linear-gradient(-270deg, #007DB3, #007DB3, #00E4FF, #007DB3, #007DB3);
       background-size: 600% 600%;
       -webkit-animation: MainCTAAni 5s ease infinite;
       animation: MainCTAAni 5s ease infinite;
@@ -1034,7 +1034,7 @@ Instead edit gulp/templates/sprite */
         position: absolute;
         z-index: -1;
         top: 0;
-        left: 0;
+        right: 0;
         width: 0;
         height: 100%;
         background-color: #FFFFFF;
@@ -1062,8 +1062,8 @@ Instead edit gulp/templates/sprite */
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-right: -15px;
     margin-left: -15px;
+    margin-right: -15px;
     padding: 10px 0;
 
   }
@@ -1125,11 +1125,11 @@ Instead edit gulp/templates/sprite */
       width: 100%;
       height: 100%;
       top: 0;
-      left: 0;
       right: 0;
+      left: 0;
       bottom: 0;
       background: rgba(25, 20, 43, .1);
-      background: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(25, 20, 43, .1)), color-stop(40%, rgba(25, 20, 43, .1)), to(rgba(25, 20, 43, .75)));
+      background: -webkit-gradient(linear, right top, right bottom, color-stop(0, rgba(25, 20, 43, .1)), color-stop(40%, rgba(25, 20, 43, .1)), to(rgba(25, 20, 43, .75)));
       background: linear-gradient(to bottom, rgba(25, 20, 43, .1) 0, rgba(25, 20, 43, .1) 40%, rgba(25, 20, 43, .75) 100%);
       filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0019142b', endColorstr='#bf19142b', GradientType=0);
       -webkit-transition: all 0.5s ease;
@@ -1250,8 +1250,8 @@ Instead edit gulp/templates/sprite */
   }
 @media (min-width: 768px) {
 .quote__pic {
-      float: left;
-      margin-right: 20px;
+      float: right;
+      margin-left: 20px;
       margin-bottom: 40px;
       -webkit-transform: scale(1);
               transform: scale(1)
@@ -1271,7 +1271,7 @@ Instead edit gulp/templates/sprite */
   }
 @media (min-width: 768px) {
 .quote__text {
-      text-align: left;
+      text-align: right;
       font-size: 20px
 
   }
@@ -1286,7 +1286,7 @@ Instead edit gulp/templates/sprite */
   }
 @media (min-width: 768px) {
 .quote__by {
-      text-align: left;
+      text-align: right;
       font-size: 13px
 
   }
@@ -1343,7 +1343,7 @@ Instead edit gulp/templates/sprite */
     }
 @media (min-width: 768px) {
 .learning-methodology__k-plus p {
-        text-align: left
+        text-align: right
 
     }
   }
@@ -1355,7 +1355,7 @@ Instead edit gulp/templates/sprite */
     }
 @media (min-width: 768px) {
 .learning-methodology__k-plus a {
-        text-align: left
+        text-align: right
 
     }
   }
@@ -1370,7 +1370,7 @@ Instead edit gulp/templates/sprite */
     position: absolute;
     color: #007DB3;
     font-size: 18px;
-    right: 6px;
+    left: 6px;
     top: 6px;
     font-size: 24px;
     width: 24px;
@@ -1384,8 +1384,8 @@ Instead edit gulp/templates/sprite */
   }
 @media (min-width: 768px) {
 .learning-methodology ._icon {
-      -webkit-transform-origin: 0;
-              transform-origin: 0
+      -webkit-transform-origin: 100%;
+              transform-origin: 100%
   }
   }
 @media (min-width: 1170px) {
@@ -1469,8 +1469,8 @@ Instead edit gulp/templates/sprite */
     position: relative;
     background-color: #A79FC5;
     width: 100%;
-    text-align: left;
-    float: left;
+    text-align: right;
+    float: right;
     margin-top: 4px;
     margin-bottom: 4px;
     -webkit-transition: all 0.3s ease;
@@ -1490,15 +1490,15 @@ Instead edit gulp/templates/sprite */
 
         display: block;
         position: absolute;
-        left: 50%;
+        right: 50%;
         top: 40%;
-        margin-left: -30px;
+        margin-right: -30px;
         margin-top: -30px
 
     }
   }
 .circle__inner--pl {
-      padding-left: 0;
+      padding-right: 0;
     }
 .circle__inner:before {
       position: absolute;
@@ -1509,11 +1509,11 @@ Instead edit gulp/templates/sprite */
       width: 32px;
       height: 32px;
       bottom: -22px;
-      left: 10%;
+      right: 10%;
       text-align: center;
       color: #3dfdff;
-      -webkit-transform: rotate(90deg);
-              transform: rotate(90deg);
+      -webkit-transform: rotate(-90deg);
+              transform: rotate(-90deg);
     }
 .circle__inner:after {
       position: absolute;
@@ -1524,11 +1524,11 @@ Instead edit gulp/templates/sprite */
       width: 32px;
       height: 32px;
       bottom: -22px;
-      right: 10%;
+      left: 10%;
       text-align: center;
       color: #007DB3;
-      -webkit-transform: rotate(270deg);
-              transform: rotate(270deg);
+      -webkit-transform: rotate(-270deg);
+              transform: rotate(-270deg);
     }
 .circle__inner:nth-child(2) {
       background-color: #7C6FA8;
@@ -1578,7 +1578,7 @@ Instead edit gulp/templates/sprite */
     width: 36px;
     height: 36px;
     top: 16px;
-    left: 0;
+    right: 0;
     font-size: 26px;
     line-height: 1;
     text-align: center;
@@ -1587,7 +1587,7 @@ Instead edit gulp/templates/sprite */
 
   }
 .circle__number--pr {
-      padding-right: 0;
+      padding-left: 0;
     }
 @media (min-width: 768px) {
 .circle__number {
@@ -1622,18 +1622,18 @@ Instead edit gulp/templates/sprite */
     font-weight: 700;
 
     margin: 0 auto ;
-    padding-left: 20px;
+    padding-right: 20px;
 
   }
 @media (min-width: 768px) {
 .circle__desc {
-      padding-left: 0;
+      padding-right: 0;
       margin: 40px auto 0 auto
 
   }
   }
 .circle__desc--pr {
-      padding-right: 8px;
+      padding-left: 8px;
     }
 @media (min-width: 768px) {
 .circle__desc {
@@ -1664,9 +1664,9 @@ Instead edit gulp/templates/sprite */
     content: "";
     background-color: rgba(0, 0, 0, 0.33);
     top: 0;
-    right: 0;
-    bottom: 0;
     left: 0;
+    bottom: 0;
+    right: 0;
   }
 @media (min-width: 768px) {
 .kite {
@@ -1687,11 +1687,11 @@ Instead edit gulp/templates/sprite */
 .kite ._icon--kite {
     position: absolute;
     top: 20px;
-    left: 20px;
+    right: 20px;
     -webkit-transform: scale(.7);
             transform: scale(.7);
-    -webkit-transform-origin: 0;
-            transform-origin: 0;
+    -webkit-transform-origin: 100%;
+            transform-origin: 100%;
 
   }
 @media (min-width: 768px) {
@@ -1702,7 +1702,7 @@ Instead edit gulp/templates/sprite */
   }
   }
 .kite h1 {
-    text-align: left;
+    text-align: right;
   }
 
 
