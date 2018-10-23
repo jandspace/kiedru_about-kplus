@@ -2,11 +2,11 @@
 Instead edit gulp/templates/sprite */
 
 ._icon {
-  background-image: url('//assetlibs.kaplaninternational.com/_assets/about-k-plus/images/sprites/sprite-5ef206fd.svg')/*rtl:ignore*/;
+  background-image: url('//assetlibs.kaplaninternational.com/_assets/about-k-plus/images/sprites/sprite-1c06a060.svg')/*rtl:ignore*/;
 }
 
 .no-svg ._icon {
-  background-image: url('//assetlibs.kaplaninternational.com/_assets/about-k-plus/images/sprites/sprite-5ef206fd.png')/*rtl:ignore*/;
+  background-image: url('//assetlibs.kaplaninternational.com/_assets/about-k-plus/images/sprites/sprite-1c06a060.png')/*rtl:ignore*/;
 
 }
 
@@ -14,31 +14,31 @@ Instead edit gulp/templates/sprite */
 ._icon--accommodation {
   width: 34px;
   height: 34px;
-  background-position: 48.89196675900277% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 74.37673130193906% 78.18181818181819%/*rtl:ignore*/;
 }
 
 ._icon--booking {
   width: 17px;
   height: 17px;
-  background-position: 81.0554803788904% 59.92063492063492%/*rtl:ignore*/;
+  background-position: 74.83085250338296% 65.234375%/*rtl:ignore*/;
 }
 
 ._icon--check {
   width: 16px;
   height: 14px;
-  background-position: 85.54054054054055% 59.566074950690336%/*rtl:ignore*/;
+  background-position: 100% 58.640776699029125%/*rtl:ignore*/;
 }
 
 ._icon--circle1 {
   width: 252px;
   height: 302px;
-  background-position: 100% 0/*rtl:ignore*/;
+  background-position: 0 0/*rtl:ignore*/;
 }
 
 ._icon--circle2 {
   width: 252px;
   height: 302px;
-  background-position: 0 0/*rtl:ignore*/;
+  background-position: 100% 0/*rtl:ignore*/;
 }
 
 ._icon--circle3 {
@@ -50,185 +50,209 @@ Instead edit gulp/templates/sprite */
 ._icon--courses {
   width: 34px;
   height: 34px;
-  background-position: 34.76454293628809% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 60.24930747922438% 78.18181818181819%/*rtl:ignore*/;
 }
 
 ._icon--current-students {
   width: 72px;
   height: 72px;
-  background-position: 14.035087719298245% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 21.05263157894737% 100%/*rtl:ignore*/;
 }
 
 ._icon--date {
   width: 17px;
   height: 16px;
-  background-position: 83.35588633288228% 59.801980198019805%/*rtl:ignore*/;
+  background-position: 77.13125845737483% 65.10721247563353%/*rtl:ignore*/;
 }
 
 ._icon--faq {
   width: 34px;
   height: 34px;
-  background-position: 58.310249307479225% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 46.121883656509695% 78.18181818181819%/*rtl:ignore*/;
 }
 
 ._icon--higher-education {
   width: 34px;
   height: 34px;
-  background-position: 30.05540166204986% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 55.54016620498615% 78.18181818181819%/*rtl:ignore*/;
 }
 
 ._icon--k-clubs {
   width: 83px;
   height: 24px;
-  background-position: 39.9702823179792% 60.76458752515091%/*rtl:ignore*/;
+  background-position: 39.673105497771175% 66.13861386138613%/*rtl:ignore*/;
 }
 
 ._icon--k-extra {
   width: 82px;
   height: 24px;
-  background-position: 64.39169139465875% 60.76458752515091%/*rtl:ignore*/;
+  background-position: 51.92878338278932% 66.13861386138613%/*rtl:ignore*/;
 }
 
 ._icon--k-notes {
   width: 85px;
   height: 24px;
-  background-position: 27.421758569299552% 60.76458752515091%/*rtl:ignore*/;
+  background-position: 27.12369597615499% 66.13861386138613%/*rtl:ignore*/;
 }
 
 ._icon--k-plus {
-  width: 96px;
-  height: 72px;
-  background-position: 0 86.19153674832963%/*rtl:ignore*/;
+  width: 112px;
+  height: 70px;
+  background-position: 0 84.31372549019608%/*rtl:ignore*/;
 }
 
 ._icon--k-tools {
   width: 82px;
   height: 24px;
-  background-position: 52.225519287833826% 60.76458752515091%/*rtl:ignore*/;
+  background-position: 64.09495548961425% 66.13861386138613%/*rtl:ignore*/;
 }
 
 ._icon--kaplan-logo {
   width: 184px;
   height: 32px;
-  background-position: 0 61.758691206543965%/*rtl:ignore*/;
+  background-position: 0 60.76458752515091%/*rtl:ignore*/;
 }
 
 ._icon--ki-80-years {
   width: 72px;
   height: 72px;
-  background-position: 35.08771929824562% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 0 100%/*rtl:ignore*/;
 }
 
 ._icon--ki-80-years-white {
   width: 72px;
   height: 72px;
-  background-position: 77.19298245614036% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 52.63157894736842% 100%/*rtl:ignore*/;
 }
 
 ._icon--kie-highly-recommended {
   width: 72px;
   height: 72px;
-  background-position: 45.6140350877193% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 63.1578947368421% 100%/*rtl:ignore*/;
 }
 
 ._icon--kie-world-schools {
   width: 72px;
   height: 72px;
-  background-position: 56.14035087719298% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 42.10526315789474% 100%/*rtl:ignore*/;
 }
 
 ._icon--kie-world-students {
   width: 72px;
   height: 72px;
-  background-position: 66.66666666666667% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 10.526315789473685% 100%/*rtl:ignore*/;
 }
 
 ._icon--kite {
   width: 182px;
   height: 53px;
-  background-position: 0 71.36752136752136%/*rtl:ignore*/;
+  background-position: 0 70.16806722689076%/*rtl:ignore*/;
+}
+
+._icon--kplus-course-books {
+  width: 143px;
+  height: 26px;
+  background-position: 54.81239804241436% 60.03976143141153%/*rtl:ignore*/;
 }
 
 ._icon--kplus-extra-grammar {
   width: 62px;
   height: 62px;
-  background-position: 86.45533141210375% 84.31372549019608%/*rtl:ignore*/;
+  background-position: 34.00576368876081% 82.86937901498929%/*rtl:ignore*/;
 }
 
 ._icon--kplus-extra-pronunciation {
   width: 62px;
   height: 62px;
-  background-position: 95.38904899135447% 84.31372549019608%/*rtl:ignore*/;
+  background-position: 25.072046109510087% 82.86937901498929%/*rtl:ignore*/;
 }
 
 ._icon--kplus-extra-vocabulary {
   width: 62px;
   height: 62px;
-  background-position: 0 100%/*rtl:ignore*/;
+  background-position: 16.138328530259365% 82.86937901498929%/*rtl:ignore*/;
+}
+
+._icon--kplus-learning-clubs {
+  width: 152px;
+  height: 26px;
+  background-position: 30.4635761589404% 60.03976143141153%/*rtl:ignore*/;
+}
+
+._icon--kplus-online {
+  width: 86px;
+  height: 26px;
+  background-position: 91.04477611940298% 60.03976143141153%/*rtl:ignore*/;
+}
+
+._icon--kplus-online-extra {
+  width: 131px;
+  height: 26px;
+  background-position: 76.64% 60.03976143141153%/*rtl:ignore*/;
 }
 
 ._icon--left-arrow {
   width: 22px;
   height: 22px;
-  background-position: 76.29427792915531% 60.521042084168336%/*rtl:ignore*/;
+  background-position: 70.02724795640327% 65.87771203155819%/*rtl:ignore*/;
 }
 
 ._icon--location {
   width: 17px;
   height: 17px;
-  background-position: 78.75507442489851% 59.92063492063492%/*rtl:ignore*/;
+  background-position: 72.53044654939107% 65.234375%/*rtl:ignore*/;
 }
 
 ._icon--mail {
   width: 22px;
   height: 22px;
-  background-position: 70.29972752043597% 60.521042084168336%/*rtl:ignore*/;
+  background-position: 94.82288828337875% 59.566074950690336%/*rtl:ignore*/;
 }
 
 ._icon--pathways {
   width: 34px;
   height: 34px;
-  background-position: 63.01939058171745% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 79.08587257617728% 78.18181818181819%/*rtl:ignore*/;
 }
 
 ._icon--person {
   width: 35px;
   height: 42px;
-  background-position: 25.24271844660194% 69.72860125260961%/*rtl:ignore*/;
+  background-position: 41.33148404993065% 79.46611909650925%/*rtl:ignore*/;
 }
 
 ._icon--phone {
   width: 22px;
   height: 22px;
-  background-position: 73.29700272479565% 60.521042084168336%/*rtl:ignore*/;
+  background-position: 97.82016348773843% 59.566074950690336%/*rtl:ignore*/;
 }
 
 ._icon--scholl {
   width: 34px;
   height: 34px;
-  background-position: 53.601108033241% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 69.66759002770083% 78.18181818181819%/*rtl:ignore*/;
 }
 
 ._icon--school {
   width: 34px;
   height: 34px;
-  background-position: 44.18282548476454% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 50.83102493074792% 78.18181818181819%/*rtl:ignore*/;
 }
 
 ._icon--study-with-us {
   width: 72px;
   height: 72px;
-  background-position: 24.56140350877193% 86.19153674832963%/*rtl:ignore*/;
+  background-position: 31.57894736842105% 100%/*rtl:ignore*/;
 }
 
 ._icon--travel {
   width: 34px;
   height: 34px;
-  background-position: 39.473684210526315% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 64.9584487534626% 78.18181818181819%/*rtl:ignore*/;
 }
 
 ._icon--visa {
   width: 34px;
   height: 34px;
-  background-position: 67.72853185595568% 68.58316221765914%/*rtl:ignore*/;
+  background-position: 83.79501385041551% 78.18181818181819%/*rtl:ignore*/;
 }
